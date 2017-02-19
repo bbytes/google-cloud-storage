@@ -1,2 +1,2 @@
 # google-cloud-storage
-Google storage client to create , delete bucket , add , create  file/blob etc 
+Google storage client to create, delete bucket ,create, delete, edit file/blob etc 
